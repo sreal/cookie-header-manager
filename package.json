@@ -1,0 +1,30 @@
+{
+  "name": "cookie-header-manager",
+  "version": "0.0.1",
+  "description": "Manage cookies via request headers",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sreal/cookie-header-manager"
+  },
+  "bugs": {
+    "url": "https://github.com/sreal/cookie-header-manager/issues"
+  },
+  "keywords": [
+    "cookie",
+    "header"
+  ],
+  "author": {
+    "name":  "Simon Richard Eames <simon.richard.eames@gmail.com>"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  },
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "license": "MIT"
+}
